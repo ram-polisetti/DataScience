@@ -1,0 +1,8 @@
+sagemaker
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+statsmodels
+scikit-learn
