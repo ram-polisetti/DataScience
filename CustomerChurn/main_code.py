@@ -1,6 +1,4 @@
-# Importing libraries
-# get_ipython().system('pip install numpy==1.22.0')
-
+#import necessary libraries
 
 import pandas as pd
 
